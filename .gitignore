@@ -1,2 +1,4 @@
 node_modules
 .vscode
+mongodb/mongodb.connect.js
+mongodb
